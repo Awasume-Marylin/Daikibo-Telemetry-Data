@@ -12,7 +12,7 @@ This project contains telemetry data collected by Daikibo in a software called t
 
  This project aims at gaining insights on the 4 daikibo factory while making data driven decisions.
 
- ![alt](
+ ![alt](https://github.com/Awasume-Marylin/Daikibo-Telemetry-Data/blob/3db0cde1b4a0c1db8a8b21c17e790eb317144736/output/Dashboard.png)
 
 ### Data Sources
 
